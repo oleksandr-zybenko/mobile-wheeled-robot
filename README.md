@@ -108,12 +108,15 @@ This version does not use:
 
 ## 📸 Build Preview
 
-*(Replace file names if needed to match your photos folder)*
 
 ```markdown
-![Front View](photos/1.jpg)
-![Side View](photos/2.jpg)
-![Top View](photos/3.jpg)
+!(photos/1.jpg)
+!(photos/2.jpg)
+!(photos/3.jpg)
+!(photos/4.jpg)
+!(photos/5.jpg)
+!(photos/6.jpg)
+!(photos/7.jpg)
 ```
 
 ---
