@@ -108,16 +108,13 @@ This version does not use:
 
 ## 📸 Build Preview
 
-
-```markdown
-!photos/1.jpg
-!photos/2.jpg
-!photos/3.jpg
-!photos/4.jpg
-!photos/5.jpg
-!photos/6.jpg
-!photos/7.jpg
-```
+<img src="photos/1.jpg" width="500">
+<img src="photos/2.jpg" width="500">
+<img src="photos/3.jpg" width="500">
+<img src="photos/4.jpg" width="500">
+<img src="photos/5.jpg" width="500">
+<img src="photos/6.jpg" width="500">
+<img src="photos/7.jpg" width="500">
 
 ---
 
