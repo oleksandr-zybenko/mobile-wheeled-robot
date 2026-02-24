@@ -120,7 +120,7 @@ This version does not use:
 
 ## 🎥 Demonstration Video
 
-[Watch demo video](https://drive.google.com/file/d/1K0bs-uv7XZsR-Loidfmkl_2XzPU4MBmW/view?usp=drive_link)
+[Watch demo video](https://youtube.com/shorts/Jzi-6pDRgFg?si=Qt6NGlyJSYMQF1j6)
 
 ---
 
